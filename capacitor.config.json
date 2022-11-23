@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "firebaseio",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

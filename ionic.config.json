@@ -1,0 +1,8 @@
+{
+  "name": "firebaseio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "eeec8b7d"
+}
